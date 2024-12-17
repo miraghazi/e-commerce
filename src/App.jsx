@@ -26,7 +26,7 @@ import ResetCode from './Component/ResetCode/ResetCode';
 import NewPassword from './Component/NewPassword/NewPassword';
 import WishListContextProvider from './Component/Context/wishListContext';
 import WishList from './Component/WishList/WishList';
-import Searching from './Component/Searching/searching';
+import Searching from './Component/Searching/Searching';
 
 
 let query=new QueryClient()
